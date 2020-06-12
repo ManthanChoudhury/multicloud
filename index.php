@@ -11,8 +11,7 @@ print `cal`;
 print `date`;
  ?>
 <body style="background-color:aqua;">
-<h2>MESSAGE by SSS(S^3)</h2>
-<p>FUCKK life </p>
+<h2>helllllloolololololo</h2>
 
 <p>developed by soul_leo.</p>
 </body>
