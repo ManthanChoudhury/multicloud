@@ -3,7 +3,7 @@
 <head>
 <h1>WELCOME TO MY PAGE CLOUD PAGE</h1>
 <br/>
-<title>SHARVARY</title>
+<title>code page</title>
 </head>
 <?php
 print `ifconfig`;
