@@ -47,12 +47,11 @@ Cloudfront URL to update in code in /var/www/html.
     
 READY CLOUD PAGE
 
+![Screenshot (29)](https://user-images.githubusercontent.com/45136716/84601871-0f6d2400-aea1-11ea-9abf-a3423b84c799.png)
 
 
+hohohohoohohoh
 ![Screenshot (15)](https://user-images.githubusercontent.com/45136716/84601112-a1722e00-ae9b-11ea-8646-ebfa99167f37.png)
-
-
-
 ![Screenshot (16)](https://user-images.githubusercontent.com/45136716/84601116-a8993c00-ae9b-11ea-881b-d30d445c56f0.png)
 
 
@@ -60,9 +59,9 @@ READY CLOUD PAGE
 
        terraform destroy -auto-approve
 
-
- ![Screenshot (29)](https://user-images.githubusercontent.com/45136716/84601871-0f6d2400-aea1-11ea-9abf-a3423b84c799.png)
 ![Screenshot (30)](https://user-images.githubusercontent.com/45136716/84601874-11cf7e00-aea1-11ea-8fce-c048d3857765.png)
+
+awwwww sad!!
 ![Screenshot (32)](https://user-images.githubusercontent.com/45136716/84601878-15630500-aea1-11ea-982f-c751f84f9785.png)
 
 
